@@ -1,0 +1,6 @@
+build/
+out/
+.vs/
+*.png
+!docs/*.png
+!docs/slam/*.png

@@ -1,0 +1,4 @@
+FAST-LIO on the LiDAR Drive simulator
+trajectory length 5140 m, 4144 poses
+ATE RMSE 5.124 m, mean 4.345 m, max 9.682 m
+final position error 5.488 m  (0.107 % of the distance)
